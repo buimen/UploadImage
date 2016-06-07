@@ -1,0 +1,37 @@
+.wapper {
+	border: 1px solid gray;
+	width: 600px;
+	margin-left: 100px;
+	margin-top: 50px;
+	padding: 15px 15px;
+}
+
+.btn {
+	margin-left: 130px;
+}
+
+.numima {
+	float: left;
+	padding-top: 5px;
+	padding-right: 5px;
+}
+
+#upimage {
+	width: 200px;
+	float: left;
+}
+
+.dnum {
+	padding-bottom: 20px;
+}
+
+.dnum .btn {
+	float: left;
+	margin-left: 10px;
+}
+
+#fileimage {
+	margin-left: 90px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
